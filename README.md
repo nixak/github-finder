@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+deployed on netlify - https://github-react-finder.netlify.com/
 
 ## Available Scripts
 
